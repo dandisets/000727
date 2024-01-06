@@ -22,12 +22,42 @@ access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
-  numberOfBytes: 1
-  numberOfFiles: 1
+  approach:
+  - name: behavioral approach
+    schemaKey: ApproachType
+  - name: microscopy approach; cell population imaging
+    schemaKey: ApproachType
+  dataStandard:
+  - identifier: RRID:SCR_015242
+    name: Neurodata Without Borders (NWB)
+    schemaKey: StandardsType
+  measurementTechnique:
+  - name: two-photon microscopy technique
+    schemaKey: MeasurementTechniqueType
+  - name: analytical technique
+    schemaKey: MeasurementTechniqueType
+  - name: surgical technique
+    schemaKey: MeasurementTechniqueType
+  - name: behavioral technique
+    schemaKey: MeasurementTechniqueType
+  numberOfBytes: 609568504598
+  numberOfFiles: 18
+  numberOfSubjects: 9
   schemaKey: AssetsSummary
+  species:
+  - identifier: http://purl.obolibrary.org/obo/NCBITaxon_7227
+    name: Drosophila melanogaster - Fruit fly
+    schemaKey: SpeciesType
+  variableMeasured:
+  - OpticalChannel
+  - ImagingPlane
+  - Position
+  - ProcessingModule
+  - TwoPhotonSeries
+  - SpatialSeries
 citation: Brezovec, Luke; Berger, Andrew; Druckmann, Shaul ; Clandinin, Thomas (2024)
-  Mapping the Neural Dynamics of Locomotion across the Drosophila Brain (Version draft)
-  [Data set]. DANDI archive. https://doi.org/10.80507/dandi.123456/0.123456.1234
+  Mapping the Neural Dynamics of Locomotion across the Drosophila Brain (Version 0.240106.0043)
+  [Data set]. DANDI archive. https://doi.org/10.48324/dandi.000727/0.240106.0043
 contributor:
 - affiliation: []
   identifier: 0000-0001-9341-3565
@@ -117,15 +147,15 @@ description: Walking is a fundamental mode of locomotion, yet its neural correla
   maps suggest a dynamical systems framework for constructing walking maneuvers reminiscent
   of models of forelimb reaching in primates and set a foundation for understanding
   how local circuits interact across large-scale networks.
-doi: 10.80507/dandi.123456/0.123456.1234
+doi: 10.48324/dandi.000727/0.240106.0043
 ethicsApproval: []
-id: DANDI:000727/draft
+id: DANDI:000727/0.240106.0043
 identifier: DANDI:000727
 keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000727/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000727/0.240106.0043/assets.yaml
 name: Mapping the Neural Dynamics of Locomotion across the Drosophila Brain
 protocol: []
 publishedBy:
@@ -151,6 +181,6 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000727/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000727/0.240106.0043
+version: 0.240106.0043
 wasGeneratedBy: []
