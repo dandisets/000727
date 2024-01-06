@@ -103,7 +103,7 @@ contributor:
   - dcite:DataCurator
   schemaKey: Person
 dateCreated: '2023-12-10T10:22:46.518636+00:00'
-datePublished: '2024-01-06T00:43:26.650046+00:00'
+datePublished: '2024-01-06T18:55:44.725187+00:00'
 description: Walking is a fundamental mode of locomotion, yet its neural correlates
   are unknown at brain-wide scale in any animal. We use volumetric two-photon imaging
   to map neural activity associated with walking across the entire brain of Drosophila.
@@ -129,13 +129,13 @@ manifestLocation:
 name: Mapping the Neural Dynamics of Locomotion across the Drosophila Brain
 protocol: []
 publishedBy:
-  endDate: '2024-01-06T00:43:26.650046+00:00'
-  id: urn:uuid:166bb09c-72ba-4c3c-9ade-164979af9f96
+  endDate: '2024-01-06T18:55:44.725187+00:00'
+  id: urn:uuid:07cea553-b37d-4023-80dd-d27350b43487
   name: DANDI publish
   schemaKey: PublishActivity
-  startDate: '2024-01-06T00:43:26.650046+00:00'
+  startDate: '2024-01-06T18:55:44.725187+00:00'
   wasAssociatedWith:
-  - id: urn:uuid:90bbb298-c695-47eb-86f2-01ca9610d443
+  - id: urn:uuid:9d7d4af2-2cfb-483b-b1a8-c4a849de8ee0
     identifier: RRID:SCR_017571
     name: DANDI API
     schemaKey: Software
