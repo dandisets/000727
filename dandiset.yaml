@@ -57,7 +57,7 @@ assetsSummary:
   - SpatialSeries
 citation: Brezovec, Luke; Berger, Andrew; Druckmann, Shaul ; Clandinin, Thomas (2024)
   Mapping the Neural Dynamics of Locomotion across the Drosophila Brain (Version draft)
-  [Data set]. DANDI archive. https://doi.org/10.80507/dandi.123456/0.123456.1234
+  [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000727/draft
 contributor:
 - affiliation: []
   identifier: 0000-0001-9341-3565
@@ -133,7 +133,6 @@ contributor:
   - dcite:DataCurator
   schemaKey: Person
 dateCreated: '2023-12-10T10:22:46.518636+00:00'
-datePublished: '2024-01-06T18:55:44.725187+00:00'
 description: Walking is a fundamental mode of locomotion, yet its neural correlates
   are unknown at brain-wide scale in any animal. We use volumetric two-photon imaging
   to map neural activity associated with walking across the entire brain of Drosophila.
@@ -147,7 +146,6 @@ description: Walking is a fundamental mode of locomotion, yet its neural correla
   maps suggest a dynamical systems framework for constructing walking maneuvers reminiscent
   of models of forelimb reaching in primates and set a foundation for understanding
   how local circuits interact across large-scale networks.
-doi: 10.80507/dandi.123456/0.123456.1234
 ethicsApproval: []
 id: DANDI:000727/draft
 identifier: DANDI:000727
@@ -158,23 +156,12 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000727/versions/draft/assets/
 name: Mapping the Neural Dynamics of Locomotion across the Drosophila Brain
 protocol: []
-publishedBy:
-  endDate: '2024-01-06T18:55:44.725187+00:00'
-  id: urn:uuid:07cea553-b37d-4023-80dd-d27350b43487
-  name: DANDI publish
-  schemaKey: PublishActivity
-  startDate: '2024-01-06T18:55:44.725187+00:00'
-  wasAssociatedWith:
-  - id: urn:uuid:9d7d4af2-2cfb-483b-b1a8-c4a849de8ee0
-    identifier: RRID:SCR_017571
-    name: DANDI API
-    schemaKey: Software
-    version: 0.1.0
 relatedResource:
 - identifier: https://doi.org/10.1101/2022.03.20.485047
   name: Mapping the Neural Dynamics of Locomotion across the Drosophila Brain
   relation: dcite:IsDescribedBy
   repository: bioRxiv
+  resourceType: dcite:JournalArticle
   schemaKey: Resource
   url: https://doi.org/10.1101/2022.03.20.485047
 repository: https://dandiarchive.org
