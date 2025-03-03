@@ -56,9 +56,9 @@ assetsSummary:
   - ProcessingModule
   - TwoPhotonSeries
   - SpatialSeries
-citation: Brezovec, Luke; Berger, Andrew; Druckmann, Shaul ; Clandinin, Thomas (2024)
+citation: Brezovec, Luke; Berger, Andrew; Druckmann, Shaul ; Clandinin, Thomas (2025)
   Mapping the Neural Dynamics of Locomotion across the Drosophila Brain (Version draft)
-  [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000727/draft
+  [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/000727/draft
 contributor:
 - affiliation: []
   identifier: 0000-0001-9341-3565
@@ -165,6 +165,12 @@ relatedResource:
   resourceType: dcite:JournalArticle
   schemaKey: Resource
   url: https://doi.org/10.1101/2022.03.20.485047
+- identifier: catalystneuro/clandinin-lab-to-nwb
+  name: clandinin-lab-to-nwb
+  relation: dcite:IsCompiledBy
+  resourceType: dcite:Software
+  schemaKey: Resource
+  url: https://github.com/catalystneuro/clandinin-lab-to-nwb
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
