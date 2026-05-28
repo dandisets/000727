@@ -167,12 +167,6 @@ contributor:
   roleName:
   - dcite:Funder
   schemaKey: Organization
-- identifier: https://ror.org/021nxhr62
-  includeInCitation: false
-  name: National Science Foundation
-  roleName:
-  - dcite:Funder
-  schemaKey: Organization
 dateCreated: '2023-12-10T10:22:46.518636+00:00'
 description: Walking is a fundamental mode of locomotion, yet its neural correlates
   are unknown at brain-wide scale in any animal. We use volumetric two-photon imaging
