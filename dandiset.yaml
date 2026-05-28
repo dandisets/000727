@@ -160,8 +160,6 @@ contributor:
   - dcite:DataCurator
   schemaKey: Person
 - identifier: https://ror.org/021nxhr62
-  schemaKey: Organization
-- identifier: https://ror.org/021nxhr62
   includeInCitation: false
   name: National Science Foundation
   roleName:
