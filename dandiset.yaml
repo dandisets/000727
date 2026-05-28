@@ -60,7 +60,10 @@ citation: Brezovec, Luke; Berger, Andrew; Druckmann, Shaul ; Clandinin, Thomas (
   Mapping the Neural Dynamics of Locomotion across the Drosophila Brain (Version draft)
   [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/000727/draft
 contributor:
-- affiliation: []
+- affiliation:
+  - identifier: https://ror.org/03mtd9a03
+    name: Stanford Medicine
+    schemaKey: Affiliation
   identifier: 0000-0001-9341-3565
   includeInCitation: true
   name: Brezovec, Luke
@@ -73,7 +76,10 @@ contributor:
   - dcite:Conceptualization
   - dcite:DataCollector
   schemaKey: Person
-- affiliation: []
+- affiliation:
+  - identifier: https://ror.org/03mtd9a03
+    name: Stanford Medicine
+    schemaKey: Affiliation
   identifier: 0000-0003-4880-1264
   includeInCitation: true
   name: Berger, Andrew
@@ -82,7 +88,10 @@ contributor:
   - dcite:DataManager
   - dcite:Software
   schemaKey: Person
-- affiliation: []
+- affiliation:
+  - identifier: https://ror.org/03mtd9a03
+    name: Stanford Medicine
+    schemaKey: Affiliation
   identifier: 0000-0003-0068-3377
   includeInCitation: true
   name: 'Druckmann, Shaul '
@@ -91,7 +100,10 @@ contributor:
   - dcite:FormalAnalysis
   - dcite:Researcher
   schemaKey: Person
-- affiliation: []
+- affiliation:
+  - identifier: https://ror.org/03mtd9a03
+    name: Stanford Medicine
+    schemaKey: Affiliation
   email: trc@stanford.edu
   identifier: 0000-0001-6277-6849
   includeInCitation: true
