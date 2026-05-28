@@ -216,6 +216,12 @@ relatedResource:
   resourceType: dcite:Software
   schemaKey: Resource
   url: https://github.com/catalystneuro/clandinin-lab-to-nwb
+- name: Dandiset 000727 Example Notebook
+  relation: dcite:IsSupplementedBy
+  resourceType: dcite:ComputationalNotebook
+  schemaKey: Resource
+  url: 
+    https://github.com/dandi/example-notebooks/tree/master/000727/clandinin/simple_data_access
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
